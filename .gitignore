@@ -1,0 +1,31 @@
+# Rust build artifacts
+target/
+Cargo.lock
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Environment / secrets
+.env
+.env.local
+*.env
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.bak
+
+# Antigravity CLI
+.antigravitycli/
